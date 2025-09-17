@@ -86,8 +86,7 @@ Whether you need to quickly scan QR codes for daily tasks or generate custom QR 
 
 ### 📺 Watch QRify in Action
 
-[![QRify Demo Video](screenshots/video_thumbnail.png)](https://github.com/yourusername/QRify/releases/download/v1.0/qrify_demo.mp4)
-
+[![QRify Demo Video](https://i.fbcd.co/products/resized/resized-1500-1000/e2d58bd824dd0b3b9786845286c4f998bb01f7b012ec47d2bd6e99e7bac56405.webp)](https://youtube.com/shorts/PDhAW9Gp0ho?si=fithA-701YznyPjj)
 *Click to watch a comprehensive demo showcasing all features*
 
 **Demo Highlights:**
@@ -95,9 +94,6 @@ Whether you need to quickly scan QR codes for daily tasks or generate custom QR 
 - 🎨 Custom QR generation with color themes
 - 📱 Material Design 3 interface walkthrough
 - 📤 Scan history and sharing capabilities
-
-**Alternative Links:**
-- [🎬 YouTube Demo]([https://youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/BibqZ6AQjK8)) (if available)
 
 </div>
 
