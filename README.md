@@ -86,8 +86,16 @@ Whether you need to quickly scan QR codes for daily tasks or generate custom QR 
 
 ### 📺 Watch QRify in Action
 
-[![QRify Demo Video](https://i.fbcd.co/products/resized/resized-1500-1000/e2d58bd824dd0b3b9786845286c4f998bb01f7b012ec47d2bd6e99e7bac56405.webp)](https://youtube.com/shorts/PDhAW9Gp0ho?si=fithA-701YznyPjj)
-*Click to watch a comprehensive demo showcasing all features*
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=PDhAW9Gp0ho">
+    <img src="https://i.fbcd.co/products/resized/resized-1500-1000/e2d58bd824dd0b3b9786845286c4f998bb01f7b012ec47d2bd6e99e7bac56405.webp" 
+         alt="QRify Demo Video" 
+         width="600" 
+         height="400">
+  </a>
+  <br>
+  <strong>▶️ Click to watch demo on YouTube</strong>
+</div>
 
 **Demo Highlights:**
 - 🔍 Real-time QR code scanning with ML Kit
